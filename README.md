@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bidipta Ghosh.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning DSA with JAVA and frontend-development.
+- 🌱 I’m currently learning frontend-development.
 - 💞️ I’m looking to collaborate on web development projects that solve real-world problems.
 - 📫 How to reach me @bidghosh1225@gmail.com
 - 😄 Pronouns: she/her
