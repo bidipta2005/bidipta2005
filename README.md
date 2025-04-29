@@ -14,7 +14,7 @@
 
 - 💞️ I’m looking to collaborate on web development projects that solve real-world problems.
 
-- 📫 How to reach me @bidghosh1225@gmail.com
+- 📫 How to reach me bidghosh1225@gmail.com
 
 - 💬 Ask me about anything
 
