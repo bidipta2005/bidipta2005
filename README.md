@@ -19,8 +19,7 @@
 - 💬 Ask me about anything
 
 - ⚡ Fun fact: MDN knows more about my emotional breakdowns than my friends ever will.
-
-- ⚡ Fun fact **Sometimes all I need is Alt+F4 :)**
+**
 <h2></h2><br>
 
 
