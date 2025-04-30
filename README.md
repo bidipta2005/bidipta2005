@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=41&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Bidipta+Ghosh.+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Bidipta Ghosh Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=41&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Bidipta.+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Bidipta Ghosh Welcome to my Profile! animated typed out">
 <img  src="assets/borderseperator.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=over-thinker&label=Profile%20views&color=0e75b6&style=flat" alt="over-thinker" /> </p>
