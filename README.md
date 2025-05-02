@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=over-thinker&label=Profile%20views&color=0e75b6&style=flat" alt="over-thinker" /> </p>
 
 <img align='right' src="assets/nightlife.gif" width="350" alt="HyunSun's Dev Card" /></a>
-<h2 align="center"><img src="assets/flamey.gif" width="30"/> Self-taught, curious, and passionate about coding!<img src="assets/flamey.gif" width="30"/></h2>
+<h2 align="center"><img src="assets/flamey.gif" width="30"/> Naturally curious, creatively coding, and constantly improving.<img src="assets/flamey.gif" width="30"/></h2>
 
 - 👋 Hi, I’m Bidipta Ghosh.
 
