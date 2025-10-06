@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in Full Stack Web Development.
 
-- 🌱 I’m currently learning **DSA with Java and also Front end Web Development**
+- 🌱 I’m currently learning **DSA with Java and also Full Stack Web Development**
 
 - 💞️ I’m looking to collaborate on web development projects that solve real-world problems.
 
